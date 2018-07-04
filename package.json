@@ -1,6 +1,6 @@
 {
   "name": "zjcli",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "",
   "main": "index.js",
   "directories": {
@@ -15,6 +15,7 @@
     "co": "^4.6.0",
     "co-prompt": "^1.0.0",
     "commander": "^2.16.0",
+    "inquirer": "^6.0.0",
     "ora": "^2.1.0",
     "semver": "^5.5.0"
   },
